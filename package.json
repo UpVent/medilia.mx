@@ -16,6 +16,7 @@
     "rollup-plugin-svelte": "^7.0.0",
     "rollup-plugin-terser": "^7.0.0",
     "svelte": "^3.0.0",
+    "svelte-bootstrap-icons": "^1.7.2",
     "sveltestrap": "^5.7.0"
   },
   "dependencies": {
