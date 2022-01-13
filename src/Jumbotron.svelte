@@ -1,7 +1,10 @@
 <script>
+    // Sveltestrap imports
     import { Button } from 'sveltestrap';
-    import Phone from 'svelte-bootstrap-icons/lib/Phone';
 
+    // Svelte bootstrap icons imports
+    import Phone from 'svelte-bootstrap-icons/lib/Phone';
+    // Component variables
     let jumboimage = 'images/image-jumbotron.jpg';
 </script>
 
@@ -28,10 +31,9 @@
             <div class="col-8">
                 <h1 class="text-light mt-5 mb-5">Garantizamos un funcionamiento correcto en tus equipos de medición.</h1>
                 <hr class="text-light">
-
-                <p class="text-light lead">
-                    Somos un laboratorio de calibración con más de 20 años de experiencia en la configuración y mantenimiento de los elementos de medición para su correcto funcionamiento.
-                </p>
+                    <p class="text-light lead">
+                        Somos un laboratorio de calibración con más de 20 años de experiencia en la configuración y mantenimiento de los elementos de medición para su correcto funcionamiento.
+                    </p>
                 <div class="d-grid gap-2 mt-2 mb-2 d-md-block">
                     <Button size="lg" color="primary">Contacto <Phone/></Button>
                 </div>
