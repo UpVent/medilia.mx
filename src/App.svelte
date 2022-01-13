@@ -1,6 +1,7 @@
 <script>
     import Navbar from './Navbar.svelte';
     import Jumbotron from './Jumbotron.svelte';
+    import Services from './Services.svelte';
     import Footer from './Footer.svelte';
 </script>
 
@@ -9,6 +10,9 @@
 
 <!-- Jumbotron Image -->
 <Jumbotron/>
+
+<!-- Services -->
+<Services/>
 
 <!-- Footer Component -->
 <Footer/>
