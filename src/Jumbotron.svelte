@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="col-4">
-                <img class="img-fluid m-5 jumbotron-image" src={jumboimage} alt="Imágen mostrando una persona utilizando equipo de metrología."/>
+                <img class="img-fluid mt-5 jumbotron-image" src={jumboimage} alt="Imágen mostrando una persona utilizando equipo de metrología."/>
             </div>
         </div>
     </div>
